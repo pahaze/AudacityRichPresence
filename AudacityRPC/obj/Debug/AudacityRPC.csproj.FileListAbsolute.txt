@@ -1,0 +1,12 @@
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\bin\Debug\AudacityRPC.exe.config
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\bin\Debug\AudacityRPC.exe
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\bin\Debug\AudacityRPC.pdb
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\bin\Debug\DiscordRPC.dll
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\bin\Debug\DiscordRPC.pdb
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\bin\Debug\DiscordRPC.xml
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\obj\Debug\AudacityRPC.csproj.CoreCompileInputs.cache
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\obj\Debug\AudacityRPC.csproj.CopyComplete
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\obj\Debug\AudacityRPC.exe
+C:\Users\frylock\source\repos\AudacityRPC\AudacityRPC\obj\Debug\AudacityRPC.pdb
