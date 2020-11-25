@@ -11,7 +11,7 @@ namespace AudacityRPC
     {
         static void Main(string[] args)
         {
-            DiscordRpcClient DiscordClient = new DiscordRpcClient("685280658570084369");
+            DiscordRpcClient DiscordClient = new DiscordRpcClient("769607179841568800");
             DiscordClient.Initialize();
             void SetPresence(RichPresence Presence)
             {
@@ -69,7 +69,7 @@ namespace AudacityRPC
                         Timestamps = timesta,
                         Assets = new Assets()
                         {
-                            LargeImageKey = "audacity_logo_logotype",
+                            LargeImageKey = "audacity",
                             LargeImageText = "Audacity",
                             SmallImageText = "",
                             SmallImageKey = ""
